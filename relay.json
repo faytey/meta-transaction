@@ -1,0 +1,13 @@
+{
+  "relayer": {
+    "relayerId": "0434e874-3edd-4344-b4f3-738148c1e099",
+    "name": "MetaTxRelayer",
+    "address": "0x2b9ec47d96fd5e4770341d1edb35e40a47c4669a",
+    "network": "goerli",
+    "createdAt": "2023-03-29T17:32:42.321Z",
+    "paused": false,
+    "policies": {},
+    "minBalance": "100000000000000000",
+    "pendingTxCost": "0"
+  }
+}
